@@ -1,0 +1,32 @@
+# Node
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+/dist
+/build
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Tailwind
+frontend/tailwind.config.js.backup
+
+# Coverage
+coverage/
+
+# Misc
+*.swp
+*.swo
